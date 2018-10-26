@@ -17,3 +17,16 @@ Each of the "I wish I could..." items listed links to an issue in this repo.  Pl
 ## I wish I could...
 
 This is an unordered list of things that I can easily do in emacs that I don't yet know how to do in Atom.  Each headline is a link to an Issue entry, so the Atom community is welcome to add comment there.
+
+### Sort lines of text alphabetically
+
+In emacs, `\[meta\]-x sort-region` sorts a block of lines aphabetically.  In retrospect, I'm surprised how often I use it.
+
+### Tab to re-indent according to mode
+
+If you've messed up the indentation of a function, 
+
+### Have something like `\[meta\]-space` for 'just one space'
+
+Who would think such a simple command would be so useful.  just-one-space deletes all spaces and tabs around point, leaving one space.
+
